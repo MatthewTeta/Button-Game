@@ -1,0 +1,7 @@
+.button {
+    width: 100px;
+    height: 100px;
+    background-color: #ff0033;
+    border-radius: 100%;
+    position: absolute;
+}
